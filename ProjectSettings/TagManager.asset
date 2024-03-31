@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: green flag
+    uniqueID: 3635270699
+    locked: 0
+  - name: knight
+    uniqueID: 1593480013
+    locked: 0
+  - name: spike 1
+    uniqueID: 2793036791
+    locked: 0
+  - name: spike 2
+    uniqueID: 3786705703
+    locked: 0
+  - name: goblin
+    uniqueID: 3081176053
+    locked: 0
+  - name: torch 1
+    uniqueID: 3089722613
+    locked: 0
+  - name: torch 2
+    uniqueID: 3840582935
+    locked: 0
+  - name: red flag
+    uniqueID: 144379249
+    locked: 0
+  - name: sword
+    uniqueID: 3412992219
+    locked: 0
+  - name: slime
+    uniqueID: 4267635439
+    locked: 0
+  - name: goblin knife
+    uniqueID: 142260907
+    locked: 0
+  - name: wall
+    uniqueID: 1345007239
+    locked: 0
+  - name: green
+    uniqueID: 720870221
+    locked: 0
+  - name: red
+    uniqueID: 3958758905
+    locked: 0
+  - name: door
+    uniqueID: 2355540849
+    locked: 0
