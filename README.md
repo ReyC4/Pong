@@ -8,7 +8,7 @@ The second player or enemy in the game is a menacing goblin, adding a layer of e
 <br>
 
 ## 🕹️Download Game
-[Download Here!](https://github.com/ReyC4/Ninja-Game-Exe)
+[Download Here!](https://github.com/ReyC4/Pong-Exe)
 
 <br>
 
