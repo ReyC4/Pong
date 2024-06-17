@@ -1,3 +1,4 @@
+![image](https://github.com/ReyC4/Pong/assets/125941312/b87a6018-1008-4dbe-a8dc-668cd2e18f14) ![image](https://github.com/ReyC4/Pong/assets/125941312/081531d7-a3b3-4be8-b4fa-4bdbe300fd82)
 
 ## 🔴About
 My project is a 2D ping pong game with a unique dungeon knight theme. In this game, the player takes on the role of a brave knight, navigating through a dark and eerie dungeon. The game maintains the classic mechanics of ping pong, but with a twist: the setting, characters, and visuals are all designed to immerse the player in a medieval fantasy world. The paddles are represented by the knight's shield and sword, adding a thematic flair to the gameplay. The dungeon environment features torches, stone walls, and ambient sound effects to enhance the immersive experience.
