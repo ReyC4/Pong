@@ -25,7 +25,7 @@ The second player or enemy in the game is a menacing goblin, adding a layer of e
 <br>
 
 ## 📋 Project Info
-This project using Unity 2021.3.11f1
+This project using Unity 2022.3.19f1
 
 | **Role** | **Name** | **Development Time** 
 |:-|:-|:-|
