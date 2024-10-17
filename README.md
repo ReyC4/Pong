@@ -1,9 +1,5 @@
 <p align="center">
-  <img width="100%" alt="prostir" src="https://github.com/ReyC4/Pong/assets/125941312/b87a6018-1008-4dbe-a8dc-668cd2e18f14">
-  </br>
-</p>
-<p align="center">
-  <img width="100%" alt="prostir" src="https://github.com/ReyC4/Pong/assets/125941312/081531d7-a3b3-4be8-b4fa-4bdbe300fd82">
+  <img width="100%" alt="prostir" src="https://github.com/user-attachments/assets/3111e5ec-0f02-46a0-93fe-ef834f690ee2">
   </br>
 </p>
 
