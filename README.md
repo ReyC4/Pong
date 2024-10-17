@@ -34,6 +34,17 @@ This project using Unity 2022.3.19f1
 
 <br>
 
+##  📜Scripts and Features
+|  Script       | Description                                                  |
+| ------------------- | ------------------------------------------------------------ |
+| `GameManager.cs` | Manages the game flow such as change scene, animator, etc. |
+| `BallControl.cs` | Handles ball controll in the game. |
+| `PlayerControl.cs`  | Controls the player movement. |
+| `Bot.cs`  | Manage bot movement in game. |
+| `etc`  | |
+
+<br>
+
 ## 🕹️Game controls
 
 The following controls are bound in-game.
