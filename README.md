@@ -34,9 +34,13 @@ This project using Unity 2022.3.19f1
 
 <br>
 
-## 👤Developer
-- Reynata Praja Oktavian - Unity Programmer Main Mechanic
-- Reynata Praja Oktavian - Unity Programmer Game Mechanic 
+## 🕹️Game controls
+
+The following controls are bound in-game.
+
+| Key Binding       | Function          |
+| ----------------- | ----------------- |
+| W,S or Key up,down          | Standard movement |
 
 <br>
 
