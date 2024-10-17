@@ -44,6 +44,21 @@ The following controls are bound in-game.
 
 <br>
 
+## 📂Files description
+
+```
+├── Game Pong                      # In this Folder, containing all the Unity project files, to be opened by a Unity Editor
+   ├── ...
+   ├── Assets                         #  In this Folder, it contains all our code, assets, scenes, etcwas not automatically created by Unity
+      ├── ...
+      ├── Dungeon                   # In this folder, there are several packages that you must add via Unity Package Manager
+      ├── Scenes                     # In this folder, there are scenes. You can open these scenes to play the game via Unity
+      ├── ....
+   ├── ...
+      
+```
+<br>
+
 ## 🔥How to open up the project on Unity Editor
 You are **required to download several assets. The assets that need to be downloaded are as follows:
 
